@@ -9,7 +9,7 @@
 8. ✅✅
 9. ✅✅
 10. ✅✅
-11. 
+11. ✅✅
 12. 
 
 [AoC events](https://adventofcode.com/2025/events)
